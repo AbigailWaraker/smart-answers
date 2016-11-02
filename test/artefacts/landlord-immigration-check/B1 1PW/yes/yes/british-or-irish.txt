@@ -1,10 +1,12 @@
-Is the person:
+Does the person have a current or expired UK or Republic of Ireland passport or are they a named person in their parent’s UK or Republic of Ireland passport?
+
+A named person is someone who appears on someone else’s passport.
 
 
 
 
-
-  * eea: from another EU country, the EEA or Switzerland
+  * yes: Yes
+  * no: No
 
 
 
